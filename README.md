@@ -1,7 +1,7 @@
 # Chess Bot
 
 ### Automated chess bot designed for beginner chess players
-### This project was created solely in Python using the pygame and python-chess library. The bot uses a mini-max algorithm in combination with heatmaps to determine its next move.
+### This project was created solely in Python using the pygame and python-chess library. The bot uses a mini-max algorithm optimized with alpha-beta pruning in combination with heatmaps to determine its next move.
 
 ## Requirements:
 - python 3
